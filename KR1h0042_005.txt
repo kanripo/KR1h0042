@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 中庸説
-#+DATE: 2015-09-23 09:41:07
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-12 00:40:23.737621
+#+PROPERTY: ID KR1h0042
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB09n0684-005中庸説-跋.
 <pb:KR1h0042_SBCK_005-1a>¶
 　跋¶
 　余祖文忠公正色立朝敦尙氣節爲有宋名臣著書垂教卷帙¶
@@ -28,4 +32,3 @@
 其因有異同而得並存焉則幸甚矣民國紀元二十有五年丙¶
 子四月裔孫元濟謹識¶
 <pb:KR1h0042_SBCK_005-2a>¶
-

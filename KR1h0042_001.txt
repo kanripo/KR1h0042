@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 中庸説
-#+DATE: 2015-09-23 09:41:07
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-12 00:40:23.587038
+#+PROPERTY: ID KR1h0042
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0684-001中庸説-卷一.
 <pb:KR1h0042_SBCK_001-1a>¶
 中庸&KR0003;卷第一¶
 　　　　　　　無垢先生范陽張　九成¶
@@ -293,4 +297,3 @@
 之非口舌所能辨也¶
 中庸&KR0003;卷第一¶
 <pb:KR1h0042_SBCK_001-14b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 中庸説
-#+DATE: 2015-09-23 09:41:07
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-12 00:40:23.660715
+#+PROPERTY: ID KR1h0042
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0684-003中庸説-卷三.
 <pb:KR1h0042_SBCK_003-1a>¶
 中庸&KR0003;卷第三¶
 　　　　中庸¶
@@ -287,4 +291,3 @@
 其極也且致中和則天地位於此萬物育於¶
 此九經其有不効乎此君子所以愼其獨也¶
 中庸&KR0003;卷第三¶
-

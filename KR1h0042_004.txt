@@ -1,11 +1,14 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 中庸説
-#+DATE: 2015-09-23 09:41:07
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-12 00:40:23.701151
+#+PROPERTY: ID KR1h0042
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0684-004中庸説-後序.
 <pb:KR1h0042_SBCK_004-1a>¶
 　　　　　　　　　貳&KR0634;之内¶
 寳永三年丙戌八月良辰¶
 　　　　　　　龍菖首座代¶
 　　　　　　　龍奭修褙焉¶
 <pb:KR1h0042_SBCK_004-1b>¶
-
